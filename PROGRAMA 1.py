@@ -14,7 +14,7 @@ def buscar_valor_en_matriz(matriz, valor_buscar):
     return None
 
 # Buscar un valor en la matriz
-valor_buscar = 10
+valor_buscar = 15
 resultado = buscar_valor_en_matriz(matriz, valor_buscar)
 
 if resultado:
