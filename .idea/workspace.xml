@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fc04ce6c-a2c8-4ec4-ac5e-0672a333e266" name="Changes" comment="ARREGLOS VIDIMENCIONALES." />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;JIMMYUEA&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/JIMMYUEA/REP-01.git&quot;,
+    &quot;accountId&quot;: &quot;bc533e31-3111-4e61-a60e-9a8c8fd2c524&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2lP3S7iGcyCbvygmy7YmwJa1gHo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.DESCUENTO.executor&quot;: &quot;Run&quot;,
+    &quot;Python.DICCIONARIO.executor&quot;: &quot;Run&quot;,
+    &quot;Python.FUNCION DEF.executor&quot;: &quot;Run&quot;,
+    &quot;Python.NOTAS.executor&quot;: &quot;Run&quot;,
+    &quot;Python.PROGRAMA 1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.PROGRAMA 2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Registro de Temperaturas Diarias.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/ASUS/PycharmProjects/REP-01&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;aDefault&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;ChangesTree.GroupingKeys&quot;: [
+      &quot;directory&quot;
+    ]
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-410509235cf1-JavaScript-PY-242.20224.347" />
+        <option value="bundled-python-sdk-c2d6afa66fbe-39cff9de6eef-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-242.20224.347" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fc04ce6c-a2c8-4ec4-ac5e-0672a333e266" name="Changes" comment="" />
+      <created>1725067880850</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1725067880850</updated>
+      <workItem from="1725067882005" duration="2647000" />
+      <workItem from="1725070826226" duration="733000" />
+      <workItem from="1725821706228" duration="642000" />
+      <workItem from="1726272659245" duration="92000" />
+      <workItem from="1726356128687" duration="817000" />
+      <workItem from="1726872304709" duration="1240000" />
+      <workItem from="1727636998136" duration="1989000" />
+      <workItem from="1728260549410" duration="857000" />
+      <workItem from="1733514813411" duration="640000" />
+      <workItem from="1733515508631" duration="612000" />
+      <workItem from="1733517204786" duration="197000" />
+    </task>
+    <task id="LOCAL-00001" summary="ARREGLOS VIDIMENCIONALES.">
+      <option name="closed" value="true" />
+      <created>1725069595205</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1725069595205</updated>
+    </task>
+    <task id="LOCAL-00002" summary="ARREGLOS VIDIMENCIONALES.">
+      <option name="closed" value="true" />
+      <created>1725070191465</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1725070191465</updated>
+    </task>
+    <task id="LOCAL-00003" summary="ARREGLOS VIDIMENCIONALES.">
+      <option name="closed" value="true" />
+      <created>1725070291069</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1725070291069</updated>
+    </task>
+    <task id="LOCAL-00004" summary="ARREGLOS VIDIMENCIONALES.">
+      <option name="closed" value="true" />
+      <created>1725822295339</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1725822295339</updated>
+    </task>
+    <task id="LOCAL-00005" summary="ARREGLOS VIDIMENCIONALES.">
+      <option name="closed" value="true" />
+      <created>1726872938427</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1726872938427</updated>
+    </task>
+    <task id="LOCAL-00006" summary="ARREGLOS VIDIMENCIONALES.">
+      <option name="closed" value="true" />
+      <created>1727638380602</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1727638380602</updated>
+    </task>
+    <task id="LOCAL-00007" summary="ARREGLOS VIDIMENCIONALES.">
+      <option name="closed" value="true" />
+      <created>1728260908507</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1728260908507</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ARREGLOS VIDIMENCIONALES." />
+    <option name="LAST_COMMIT_MESSAGE" value="ARREGLOS VIDIMENCIONALES." />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/REP_01$PROGRAMA_2.coverage" NAME="PROGRAMA 2 Coverage Results" MODIFIED="1725069277746" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/REP_01$DESCUENTO.coverage" NAME="DESCUENTO Coverage Results" MODIFIED="1726872765726" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/REP_01$NOTAS.coverage" NAME="NOTAS Coverage Results" MODIFIED="1728260877544" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/REP_01$PROGRAMA_1.coverage" NAME="PROGRAMA 1 Coverage Results" MODIFIED="1725069082480" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/REP_01$Registro_de_Temperaturas_Diarias.coverage" NAME="Registro de Temperaturas Diarias Coverage Results" MODIFIED="1726272742004" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/REP_01$DICCIONARIO.coverage" NAME="DICCIONARIO Coverage Results" MODIFIED="1727637989357" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/REP_01$FUNCION_DEF.coverage" NAME="FUNCION DEF Coverage Results" MODIFIED="1726356876505" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
