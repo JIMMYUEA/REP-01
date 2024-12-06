@@ -18,6 +18,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="ARREGLOS BIDIMENCIONALES &lt;jimmycangui12@gmail.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -41,32 +46,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.DESCUENTO.executor&quot;: &quot;Run&quot;,
-    &quot;Python.DICCIONARIO.executor&quot;: &quot;Run&quot;,
-    &quot;Python.FUNCION DEF.executor&quot;: &quot;Run&quot;,
-    &quot;Python.NOTAS.executor&quot;: &quot;Run&quot;,
-    &quot;Python.PROGRAMA 1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.PROGRAMA 2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Registro de Temperaturas Diarias.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/ASUS/PycharmProjects/REP-01&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;aDefault&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.1.2.1. Ejemplo Tecnicas de Programacion.executor": "Run",
+    "Python.DESCUENTO.executor": "Run",
+    "Python.DICCIONARIO.executor": "Run",
+    "Python.FUNCION DEF.executor": "Run",
+    "Python.NOTAS.executor": "Run",
+    "Python.PROGRAMA 1.executor": "Run",
+    "Python.PROGRAMA 2.executor": "Run",
+    "Python.Registro de Temperaturas Diarias.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/ASUS/PycharmProjects/REP-01",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "run.code.analysis.last.selected.profile": "aDefault",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;ChangesTree.GroupingKeys&quot;: [
-      &quot;directory&quot;
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+      "directory"
     ]
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -94,6 +100,7 @@
       <workItem from="1733514813411" duration="640000" />
       <workItem from="1733515508631" duration="612000" />
       <workItem from="1733517204786" duration="197000" />
+      <workItem from="1733517423206" duration="301000" />
     </task>
     <task id="LOCAL-00001" summary="ARREGLOS VIDIMENCIONALES.">
       <option name="closed" value="true" />
@@ -151,7 +158,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728260908507</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="ARREGLOS VIDIMENCIONALES.">
+      <option name="closed" value="true" />
+      <created>1733517490369</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1733517490369</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -165,6 +180,7 @@
     <SUITE FILE_PATH="coverage/REP_01$PROGRAMA_2.coverage" NAME="PROGRAMA 2 Coverage Results" MODIFIED="1725069277746" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/REP_01$DESCUENTO.coverage" NAME="DESCUENTO Coverage Results" MODIFIED="1726872765726" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/REP_01$NOTAS.coverage" NAME="NOTAS Coverage Results" MODIFIED="1728260877544" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/REP_01$1_2_1__Ejemplo_Tecnicas_de_Programacion.coverage" NAME="1.2.1. Ejemplo Tecnicas de Programacion Coverage Results" MODIFIED="1733517451089" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/POO SEGUNDO NIVEL" />
     <SUITE FILE_PATH="coverage/REP_01$PROGRAMA_1.coverage" NAME="PROGRAMA 1 Coverage Results" MODIFIED="1725069082480" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/REP_01$Registro_de_Temperaturas_Diarias.coverage" NAME="Registro de Temperaturas Diarias Coverage Results" MODIFIED="1726272742004" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/REP_01$DICCIONARIO.coverage" NAME="DICCIONARIO Coverage Results" MODIFIED="1727637989357" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
